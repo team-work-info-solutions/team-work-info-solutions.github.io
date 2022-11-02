@@ -91769,7 +91769,7 @@ s=p}while(true)switch(s){case 0:j=null
 p=4
 l=t.N
 s=7
-return A.a8(A.b6M(A.pD(a),b,A.aZ(["authorization","5567GGH67225HYVGG","Access-Control-Allow-Origin","*","Accept","*/*"],l,l)).IT(0,B.IU),$async$vP)
+return A.a8(A.b6M(A.pD(a),b,A.aZ(["authorization","5567GGH67225HYVGG","Accept","application/json","Access-Control-Allow-Origin","*","Accept","*/*"],l,l)).IT(0,B.IU),$async$vP)
 case 7:m=d
 j=n.ar_(m)
 p=2
